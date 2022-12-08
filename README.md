@@ -1,5 +1,5 @@
-# Dreamwidth
-A Stylus theme for Dreamwidth based on Catpuccin Theme
+# Dreamwidth Catpuccin - Macchiato
+A Stylus theme for Dreamwidth based on [Catpuccin](https://github.com/catppuccin/catppuccin) Theme's Macchiato palette
 
 ## Install With [Stylus](https://add0n.com/stylus.html)
 
@@ -7,4 +7,6 @@ A Stylus theme for Dreamwidth based on Catpuccin Theme
 
 - [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/enigmalea/dw-catpuccin/raw/main/dw-catpuccin.user.css)
 
+## Original Code
 
+Heavily modified from [Savwiley's Dreamwidth Dark Mode Skin](https://github.com/savwiley/DW-darkmode).
