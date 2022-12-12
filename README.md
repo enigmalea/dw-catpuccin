@@ -12,7 +12,7 @@ A Stylus theme for Dreamwidth based on
   [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
   (and other Chromium browsers).
 
-- [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://github.com/enigmalea/dw-catpuccin/raw/main/dw-catpuccin.user.css)
+- [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/enigmalea/dw-catpuccin/main/dw-catpuccin.user.css)
 
 ## Original Code
 
